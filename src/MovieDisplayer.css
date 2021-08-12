@@ -1,0 +1,20 @@
+.MovieDisplayer {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.MovieDisplayer ul {
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0;
+}
+
+.MovieDisplayer li {
+  margin-right: 24px;
+  margin-bottom: 24px;
+}
+
+.MovieDisplayer img {
+  width: 200px;
+}
